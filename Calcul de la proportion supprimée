@@ -1,0 +1,11 @@
+nombre_original = len(tokens)
+nombre_apres = len(filtered_tokens)
+
+nombre_supprime = nombre_original - nombre_apres
+
+proportion = (nombre_supprime / nombre_original) * 100
+
+print("Nombre de tokens avant :", nombre_original)
+print("Nombre de tokens après :", nombre_apres)
+print("Nombre de tokens supprimés :", nombre_supprime)
+print("Proportion supprimée :", round(proportion, 2), "%")

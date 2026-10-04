@@ -1,0 +1,5 @@
+print("AVANT NETTOYAGE :")
+print(text)
+
+print("\nAPRÈS NETTOYAGE :")
+print(text_clean)

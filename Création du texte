@@ -1,0 +1,4 @@
+text = "Bonjour ! Je suis étudiant en Informatique. J'aime beaucoup le NLP, Python et l'analyse de texte."
+
+print("Texte original :")
+print(text)

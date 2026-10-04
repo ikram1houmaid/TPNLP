@@ -1,0 +1,4 @@
+text_lower = text.lower()
+
+print("Texte en minuscules :")
+print(text_lower)

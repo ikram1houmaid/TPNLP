@@ -1,0 +1,11 @@
+### Question 1 — Quelle est la commande permettant d'installer une bibliothèque avec pip ?
+
+La commande générale est :
+
+`pip install nom_de_la_bibliotheque`
+
+Par exemple :
+
+`pip install nltk`
+
+Cette commande permet d'installer une bibliothèque Python à partir de PyPI.

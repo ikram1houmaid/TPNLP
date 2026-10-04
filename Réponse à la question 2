@@ -1,0 +1,13 @@
+Question 2 — Quelle est la différence entre NLTK et spaCy ?
+
+NLTK est une bibliothèque principalement utilisée pour apprendre, expérimenter
+et réaliser différentes tâches de traitement du langage naturel.
+
+spaCy est une bibliothèque orientée vers des applications NLP pratiques et
+rapides. Elle fournit notamment des modèles linguistiques pré-entraînés pour
+différentes langues.
+
+En résumé :
+
+- NLTK : apprentissage et expérimentation du NLP.
+- spaCy : applications NLP rapides avec des modèles pré-entraînés.

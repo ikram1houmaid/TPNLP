@@ -1,0 +1,6 @@
+text_clean = text_lower.translate(
+    str.maketrans('', '', string.punctuation)
+)
+
+print("Texte après suppression de la ponctuation :")
+print(text_clean)

@@ -1,0 +1,6 @@
+stop_words = set(stopwords.words('french'))
+
+print("Nombre de stopwords :", len(stop_words))
+
+print("\nQuelques stopwords français :")
+print(list(stop_words)[:30])

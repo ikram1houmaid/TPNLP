@@ -1,0 +1,4 @@
+tokens = word_tokenize(text_clean, language="french")
+
+print("Liste des tokens :")
+print(tokens)
